@@ -29,7 +29,7 @@ Frame.Size = UDim2.new(0, 190, 0, 57)
 
 up.Name = "up"
 up.Parent = Frame
-up.BackgroundColor3 = Color3.fromRGB(219,215,210)
+up.BackgroundColor3 = Color3.fromRGB(255,255,102)
 up.Size = UDim2.new(0, 44, 0, 28)
 up.Font = Enum.Font.SourceSans
 up.Text = "UP"
@@ -69,7 +69,7 @@ TextLabel.TextWrapped = true
 
 plus.Name = "plus"
 plus.Parent = Frame
-plus.BackgroundColor3 = Color3.fromRGB(199,208,204)
+plus.BackgroundColor3 = Color3.fromRGB(247,242,26)
 plus.Position = UDim2.new(0.231578946, 0, 0, 0)
 plus.Size = UDim2.new(0, 45, 0, 28)
 plus.Font = Enum.Font.SourceSans
@@ -114,7 +114,7 @@ closebutton.Position =  UDim2.new(0, 0, -1, 27)
 
 mini.Name = "minimize"
 mini.Parent = main.Frame
-mini.BackgroundColor3 = Color3.fromRGB(105,105,105)
+mini.BackgroundColor3 = Color3.fromRGB(251,236,93)
 mini.Font = "SourceSans"
 mini.Size = UDim2.new(0, 45, 0, 28)
 mini.Text = "#"
@@ -123,7 +123,7 @@ mini.Position = UDim2.new(0, 44, -1, 27)
 
 mini2.Name = "minimize2"
 mini2.Parent = main.Frame
-mini2.BackgroundColor3 = Color3.fromRGB(105,105,105)
+mini2.BackgroundColor3 = Color3.fromRGB(251,236,93)
 mini2.Font = "SourceSans"
 mini2.Size = UDim2.new(0, 45, 0, 28)
 mini2.Text = "#"
