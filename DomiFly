@@ -1,4 +1,3 @@
- # made by @TimaForeveR
 game:GetService("StarterGui"):SetCore("SendNotification", { 
  Title = "Dom1 Fly";
  Text = "t.me/freelimitedrbx";
